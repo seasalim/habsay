@@ -1,0 +1,28 @@
+{
+  "name": "habsay",
+  "version": "0.1.0",
+  "description": "Habitat message printer",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js Hello world!",
+    "test": "node app.js Hello world!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/seasalim/habsay.git"
+  },
+  "keywords": [
+    "Habitat",
+    "message",
+    "printer"
+  ],
+  "author": "Salim Alam",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/seasalim/habsay/issues"
+  },
+  "homepage": "https://github.com/seasalim/habsay#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
