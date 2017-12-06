@@ -7,4 +7,4 @@ if (process.argv.length <= 2) {
 
 var msg = process.argv.slice(2).join(' ');
 console.log(colors.rainbow("Habitat says: " + msg));
-console.log("-- Test 1");
+console.log("-- Test 2");
